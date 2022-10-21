@@ -1,0 +1,128 @@
+
+@font-face {
+    font-family: 'QCF_P174';
+    src: url('../fonts/QCF_P174.eot');
+    src: url('../fonts/QCF_P174.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/QCF_P174.woff2') format('woff2'),
+	url('../fonts/QCF_P174.woff') format('woff'),
+	url('../fonts/QCF_P174.ttf') format('truetype'),
+	url('../fonts/QCF_P174.svg#QCF_P174') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Bamini';
+    src: url('../fonts/Bamini.eot');
+    src: url('../fonts/Bamini.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/Bamini.woff2') format('woff2'),
+	url('../fonts/Bamini.woff') format('woff'),
+	url('../fonts/Bamini.ttf') format('truetype'),
+	url('../fonts/Bamini.svg#Bamini') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+span.tamilname {
+    font-family: Bamini;
+    font-size: 23px;
+}
+.arabname.arbrealview{
+	font-family: 'QCF_P174';
+	float: left;
+    width: 100%;
+    text-align: right;
+}
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+.arabname {
+	font-size: 34px;
+    font-family: initial;
+}
+.main-container{
+    margin-top: 84px;
+}
+div#display-resources .table thead th,div#display-resources {
+    text-align: center;
+}
+.qurantayath.float-right {
+    font-weight: bold;
+    margin-bottom: 12px;
+    color: #4CAF50;
+}
+h3.headerBismillah {
+    text-align: center;
+    margin-bottom: 18px;
+}
+.quranayat_holder {
+    background: #f5f5f5;
+    padding: 14px;
+    float: left;
+    width: 100%;
+    border-radius: 7px;
+    margin-bottom: 22px;
+    box-shadow: 2px 3px 1px #dad8d8;
+    border: 1px solid #dad8d8;
+}
+div#display-resources .table thead th {
+    background: #8BC34A;
+    color: #343a40;
+    font-weight: normal;
+}
+tr.jsearch-row td {
+    vertical-align: middle;
+}
+
+@font-face {
+    font-family: tp42;
+    src: url("../fonts/tp42.ttf") format("truetype")
+}
+.tp42 {
+    font-family: tp42 !important;
+}
+a.navbar-brand > img {
+    width: 34px;
+}
+@media(min-width:767px){
+	tr.jsearch-row:nth-child(odd) {
+		background: #fbfff5;
+	}	
+}
+
+@media(max-width:767px){
+	
+	tr.jsearch-row > td {
+		display: block;
+		width: 100%;
+	}
+	
+	table > thead {
+		display: none;
+	}
+	
+	tr.jsearch-row > td:first-child{
+		background:#8BC34A;
+	}
+	tr.jsearch-row > td:nth-child(4):before ,
+	tr.jsearch-row > td:nth-child(5):before{
+		background: #8bc34a;
+		padding: 0 8px;
+		font-size: 13px;
+		float: left;
+		width: 55px;
+		position: relative;
+	}
+	tr.jsearch-row > td:nth-child(4):before {
+		content: "English";
+		top: 3px;
+	}
+	tr.jsearch-row > td:nth-child(5):before {
+		content: "Tamil";
+		top: 9px;
+	}
+	.tamil_txt {
+		margin: 12px 0;
+		float: left;
+		width: 100%;
+	}
+}

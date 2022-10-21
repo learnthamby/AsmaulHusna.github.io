@@ -1,0 +1,794 @@
+[
+ {
+   "No": 1,
+   "Name": "الرَّحْمَنُ",
+   "Transliteration": "Ar-Rahmaan",
+   "EnglishMeaning": "The Beneficent",
+   "TamilMeaning": "mUshsd;",
+   "Explanation": "He who wills goodness and mercy for all His creatures"
+ },
+ {
+   "No": 2,
+   "Name": "الرَّحِيمُ",
+   "Transliteration": "Ar-Raheem",
+   "EnglishMeaning": "The Merciful",
+   "TamilMeaning": "md;GilNahd;",
+   "Explanation": "He who acts with extreme kindness"
+ },
+ {
+   "No": 3,
+   "Name": "الْمَلِكُ",
+   "Transliteration": "Al-Malik",
+   "EnglishMeaning": "The Eternal Lord",
+   "TamilMeaning": "murd;",
+   "Explanation": "The Sovereign Lord, The One with the complete Dominion, the One Whose Dominion is clear from imperfection"
+ },
+ {
+   "No": 4,
+   "Name": "الْقُدُّوسُ",
+   "Transliteration": "Al-Quddus",
+   "EnglishMeaning": "The Most Sacred",
+   "TamilMeaning": "J}atd;",
+   "Explanation": "The One who is pure from any imperfection and clear from children and adversaries"
+ },
+ {
+   "No": 5,
+   "Name": "السَّلاَمُ",
+   "Transliteration": "As-Salam",
+   "EnglishMeaning": "The Embodiment of Peace",
+   "TamilMeaning": "mikjpahdtd;",
+   "Explanation": "The One who is free from every imperfection."
+ },
+ {
+   "No": 6,
+   "Name": "الْمُؤْمِنُ",
+   "Transliteration": "Al-Mu’min",
+   "EnglishMeaning": "The Infuser of Faith",
+   "TamilMeaning": "ek;gpf;ifahsd;",
+   "Explanation": "The One who witnessed for Himself that no one is God but Him. And He witnessed for His believers that they are truthful in their belief that no one is God but Him"
+ },
+ {
+   "No": 7,
+   "Name": "الْمُهَيْمِنُ",
+   "Transliteration": "Al-Muhaymin",
+   "EnglishMeaning": "The Preserver of Safety",
+   "TamilMeaning": "ghJfhg;gtd;",
+   "Explanation": "The One who witnesses the saying and deeds of His creatures"
+ },
+ {
+   "No": 8,
+   "Name": "الْعَزِيزُ",
+   "Transliteration": "Al-Aziz",
+   "EnglishMeaning": "The Mighty One",
+   "TamilMeaning": "Mw;wy; kpf;ftd;",
+   "Explanation": "The Strong, The Defeater who is not defeated"
+ },
+ {
+   "No": 9,
+   "Name": "الْجَبَّارُ",
+   "Transliteration": "Al-Jabbar",
+   "EnglishMeaning": "The Omnipotent One",
+   "TamilMeaning": "kpfTk; td;ik tha;e;jtd;",
+   "Explanation": "The One that nothing happens in His Dominion except that which He willed"
+ },
+ {
+   "No": 10,
+   "Name": "الْمُتَكَبِّرُ",
+   "Transliteration": "Al-Mutakabbir",
+   "EnglishMeaning": "The Dominant One",
+   "TamilMeaning": "ngUikahsd;",
+   "Explanation": "The One who is clear from the attributes of the creatures and from resembling them."
+ },
+ {
+   "No": 11,
+   "Name": "الْخَالِقُ",
+   "Transliteration": "Al-Khaaliq",
+   "EnglishMeaning": "The Creator",
+   "TamilMeaning": "gilg;gtd;",
+   "Explanation": "The One who brings everything from non-existence to existence"
+ },
+ {
+   "No": 12,
+   "Name": "الْبَارِئُ",
+   "Transliteration": "Al-Baari",
+   "EnglishMeaning": "The Evolver",
+   "TamilMeaning": "Njhw;Wtpg;gtd;",
+   "Explanation": "The Maker, The Creator who has the Power to turn the entities."
+ },
+ {
+   "No": 13,
+   "Name": "الْمُصَوِّرُ",
+   "Transliteration": "Al-Musawwir",
+   "EnglishMeaning": "The Flawless Shaper",
+   "TamilMeaning": "cU mikg;gtd;",
+   "Explanation": "The One who forms His creatures in different pictures."
+ },
+ {
+   "No": 14,
+   "Name": "الْغَفَّارُ",
+   "Transliteration": "Al-Ghaffaar",
+   "EnglishMeaning": "The Great Forgiver",
+   "TamilMeaning": "kd;dpg;gtd;",
+   "Explanation": "The Forgiver, The One who forgives the sins of His slaves time and time again."
+ },
+ {
+   "No": 15,
+   "Name": "الْقَهَّارُ",
+   "Transliteration": "Al-Qahhaar",
+   "EnglishMeaning": "The All-Prevailing One",
+   "TamilMeaning": "mlf;Fgtd;",
+   "Explanation": "The Dominant, The One who has the perfect Power and is not unable over anything."
+ },
+ {
+   "No": 16,
+   "Name": "الْوَهَّابُ",
+   "Transliteration": "Al-Wahhab",
+   "EnglishMeaning": "The Supreme Bestower",
+   "TamilMeaning": ",iltplhJ toq;Fgtd;",
+   "Explanation": "The One who is Generous in giving plenty without any return. He is everything that benefits whether Halal or Haram."
+ },
+ {
+   "No": 17,
+   "Name": "الرَّزَّاقُ",
+   "Transliteration": "Ar-Razzaq",
+   "EnglishMeaning": "The Total Provider",
+   "TamilMeaning": ",uzk; mspg;gtd;",
+   "Explanation": "The Sustainer, The Provider."
+ },
+ {
+   "No": 18,
+   "Name": "الْفَتَّاحُ",
+   "Transliteration": "Al-Fattah",
+   "EnglishMeaning": "The Supreme Solver",
+   "TamilMeaning": "ntw;wpahsd;",
+   "Explanation": "The Opener, The Reliever, The Judge, The One who opens for His slaves the closed worldly and religious matters."
+ },
+ {
+   "No": 19,
+   "Name": "اَلْعَلِيْمُ",
+   "Transliteration": "Al-Alim",
+   "EnglishMeaning": "The All-Knowing One",
+   "TamilMeaning": "mwpe;jtd;",
+   "Explanation": "The Knowledgeable; The One nothing is absent from His knowledge"
+ },
+ {
+   "No": 20,
+   "Name": "الْقَابِضُ",
+   "Transliteration": "Al-Qaabid",
+   "EnglishMeaning": "The Restricting One",
+   "TamilMeaning": "jLg;gtd;",
+   "Explanation": "The Constrictor, The Withholder, The One who constricts the sustenance by His wisdom and expands and widens it with His Generosity and Mercy."
+ },
+ {
+   "No": 21,
+   "Name": "الْبَاسِطُ",
+   "Transliteration": "Al-Baasit",
+   "EnglishMeaning": "The Extender",
+   "TamilMeaning": "tphpTgLj;Jgtd;",
+   "Explanation": "The Englarger, The One who constricts the sustenance by His wisdom and expands and widens it with His Generosity and Mercy."
+ },
+ {
+   "No": 22,
+   "Name": "الْخَافِضُ",
+   "Transliteration": "Al-Khaafid",
+   "EnglishMeaning": "The Reducer",
+   "TamilMeaning": "jho;j;Jfpd;wtd;",
+   "Explanation": "The Abaser, The One who lowers whoever He willed by His Destruction and raises whoever He willed by His Endowment."
+ },
+ {
+   "No": 23,
+   "Name": "الرَّافِعُ",
+   "Transliteration": "Ar-Rafi",
+   "EnglishMeaning": "The Elevating One",
+   "TamilMeaning": "caHj;Jfpd;wtd;",
+   "Explanation": "The Exalter, The Elevator, The One who lowers whoever He willed by His Destruction and raises whoever He willed by His Endowment."
+ },
+ {
+   "No": 24,
+   "Name": "الْمُعِزُّ",
+   "Transliteration": "Al-Mu’izz",
+   "EnglishMeaning": "The Honourer-Bestower",
+   "TamilMeaning": "nfsutKk; tYTk; ey;Fgtd;",
+   "Explanation": "He gives esteem to whoever He willed, hence there is no one to degrade Him; And He degrades whoever He willed, hence there is no one to give Him esteem."
+ },
+ {
+   "No": 25,
+   "Name": "المُذِلُّ",
+   "Transliteration": "Al-Muzil",
+   "EnglishMeaning": "The Abaser",
+   "TamilMeaning": "jho;j;Jfpd;wtd;",
+   "Explanation": "The Dishonourer, The Humiliator, He gives esteem to whoever He willed, hence there is no one to degrade Him; And He degrades whoever He willed, hence there is no one to give Him esteem."
+ },
+ {
+   "No": 26,
+   "Name": "السَّمِيعُ",
+   "Transliteration": "As-Sami’",
+   "EnglishMeaning": "The All-Hearer",
+   "TamilMeaning": "Nfl;gtd;",
+   "Explanation": "The Hearer, The One who Hears all things that are heard by His Eternal Hearing without an ear, instrument or organ."
+ },
+ {
+   "No": 27,
+   "Name": "الْبَصِيرُ",
+   "Transliteration": "Al-Baseer",
+   "EnglishMeaning": "The All-Seeing",
+   "TamilMeaning": "ghHg;gtd;",
+   "Explanation": "The All-Noticing, The One who Sees all things that are seen by His Eternal Seeing without a pupil or any other instrument."
+ },
+ {
+   "No": 28,
+   "Name": "الْحَكَمُ",
+   "Transliteration": "Al-Hakam",
+   "EnglishMeaning": "The Impartial Judge",
+   "TamilMeaning": "ePjp nrYj;Jgtd;",
+   "Explanation": "The Judge, He is the Ruler and His judgment is His Word."
+ },
+ {
+   "No": 29,
+   "Name": "الْعَدْلُ",
+   "Transliteration": "Al-Adl",
+   "EnglishMeaning": "The Embodiment of Justice",
+   "TamilMeaning": "ePjpahsd;",
+   "Explanation": "The Just, The One who is entitled to do what He does."
+ },
+ {
+   "No": 30,
+   "Name": "اللَّطِيفُ",
+   "Transliteration": "Al-Lateef",
+   "EnglishMeaning": "The Knower of Subtleties",
+   "TamilMeaning": "cs;sd;Gilatd;",
+   "Explanation": "The Subtle One, The Gracious, The One who is kind to His slaves and endows upon them."
+ },
+ {
+   "No": 31,
+   "Name": "الْخَبِيرُ",
+   "Transliteration": "Al-Khabeer",
+   "EnglishMeaning": "The All-Aware One",
+   "TamilMeaning": "mwpe;jtd;",
+   "Explanation": "The One who knows the truth of things."
+ },
+ {
+   "No": 32,
+   "Name": "الْحَلِيمُ",
+   "Transliteration": "Al-Haleem",
+   "EnglishMeaning": "The Clement One",
+   "TamilMeaning": "nkd;ikahdtd;",
+   "Explanation": "The Forebearing, The One who delays the punishment for those who deserve it and then He might forgive them."
+ },
+ {
+   "No": 33,
+   "Name": "الْعَظِيمُ",
+   "Transliteration": "Al-Azeem",
+   "EnglishMeaning": "The Magnificent One",
+   "TamilMeaning": "kpfg; nghpatd;",
+   "Explanation": "The Great One, The Mighty, The One deserving the attributes of Exaltment, Glory, Extolement, and Purity from all imperfection."
+ },
+ {
+   "No": 34,
+   "Name": "الْغَفُورُ",
+   "Transliteration": "Al-Ghafoor",
+   "EnglishMeaning": "The Great Forgiver",
+   "TamilMeaning": "kd;dpg;gtd;",
+   "Explanation": "The All-Forgiving, The Forgiving, The One who forgives a lot."
+ },
+ {
+   "No": 35,
+   "Name": "الشَّكُورُ",
+   "Transliteration": "Ash-Shakoor",
+   "EnglishMeaning": "The Acknowledging One",
+   "TamilMeaning": "ed;wpAilatd;",
+   "Explanation": "The Grateful, The Appreciative, The One who gives a lot of reward for a little obedience."
+ },
+ {
+   "No": 36,
+   "Name": "الْعَلِيُّ",
+   "Transliteration": "Al-Aliyy",
+   "EnglishMeaning": "The Sublime One",
+   "TamilMeaning": "caHe;jtd;",
+   "Explanation": "The Most High, The One who is clear from the attributes of the creatures."
+ },
+ {
+   "No": 37,
+   "Name": "الْكَبِيرُ",
+   "Transliteration": "Al-Kabeer",
+   "EnglishMeaning": "The Great One",
+   "TamilMeaning": "nghpatd;",
+   "Explanation": "The Most Great, The Great, The One who is greater than everything in status."
+ },
+ {
+   "No": 38,
+   "Name": "الْحَفِيظُ",
+   "Transliteration": "Al-Hafiz",
+   "EnglishMeaning": "The Guarding One",
+   "TamilMeaning": "ghJfhtyd;",
+   "Explanation": "The Preserver, The Protector, The One who protects whatever and whoever He willed to protect."
+ },
+ {
+   "No": 39,
+   "Name": "المُقيِت",
+   "Transliteration": "Al-Muqeet",
+   "EnglishMeaning": "The Sustaining One",
+   "TamilMeaning": "tY ey;F;Fgtd;",
+   "Explanation": "The Maintainer, The Guardian, The Feeder, The One who has the Power."
+ },
+ {
+   "No": 40,
+   "Name": "الْحسِيبُ",
+   "Transliteration": "Al-Haseeb",
+   "EnglishMeaning": "The Reckoning One",
+   "TamilMeaning": "fzf;f;fpLgtd;",
+   "Explanation": "The Reckoner, The One who gives the satisfaction."
+ },
+ {
+   "No": 41,
+   "Name": "الْجَلِيلُ",
+   "Transliteration": "Al-Jaleel",
+   "EnglishMeaning": "The Majestic One",
+   "TamilMeaning": "khl;rpik kpFe;jtd;",
+   "Explanation": "The Sublime One, The Beneficent, The One who is attributed with greatness of Power and Glory of status."
+ },
+ {
+   "No": 42,
+   "Name": "الْكَرِيمُ",
+   "Transliteration": "Al-Kareem",
+   "EnglishMeaning": "The Bountiful One",
+   "TamilMeaning": "jhuhsj;jd;ik tha;e;jtd;",
+   "Explanation": "The Generous One, The Gracious, The One who is attributed with greatness of Power and Glory of status."
+ },
+ {
+   "No": 43,
+   "Name": "الرَّقِيبُ",
+   "Transliteration": "Ar-Raqeeb",
+   "EnglishMeaning": "The Watchful One",
+   "TamilMeaning": "ghpG+uz ghJfhtyd;",
+   "Explanation": "The Watcher, The One that nothing is absent from Him. Hence it’s meaning is related to the attribute of Knowledge."
+ },
+ {
+   "No": 44,
+   "Name": "الْمُجِيبُ",
+   "Transliteration": "Al-Mujeeb",
+   "EnglishMeaning": "The Responding One",
+   "TamilMeaning": ",iwQ;RjYf;F kWnkhop gfHgtd;",
+   "Explanation": "The Responsive, The Hearkener, The One who answers the one in need if he asks Him and rescues the yearner if he calls upon Him."
+ },
+ {
+   "No": 45,
+   "Name": "الْوَاسِعُ",
+   "Transliteration": "Al-Waasi’",
+   "EnglishMeaning": "The All-Pervading One",
+   "TamilMeaning": "vq;Fk; epiwe;J midj;ijAk; jd;Ds; mlf;fpf;nfhz;Ls;std; ",
+   "Explanation": "The Vast, The All-Embracing, The Knowledgeable."
+ },
+ {
+   "No": 46,
+   "Name": "الْحَكِيمُ",
+   "Transliteration": "Al-Hakeem",
+   "EnglishMeaning": "The Wise One",
+   "TamilMeaning": "mwpTs;std;",
+   "Explanation": "The Wise, The Judge of Judges, The One who is correct in His doings."
+ },
+ {
+   "No": 47,
+   "Name": "الْوَدُودُ",
+   "Transliteration": "Al-Wadud",
+   "EnglishMeaning": "The Loving One",
+   "TamilMeaning": "kpfTk; md;Gs;std;",
+   "Explanation": "The One who loves His believing slaves and His believing slaves love Him. His love to His slaves is His Will to be merciful to them and praise them"
+ },
+ {
+   "No": 48,
+   "Name": "الْمَجِيدُ",
+   "Transliteration": "Al-Majeed",
+   "EnglishMeaning": "The Glorious One",
+   "TamilMeaning": "kfj;Jtkpf;ftd;",
+   "Explanation": "The Most Glorious One, The One who is with perfect Power, High Status, Compassion, Generosity and Kindness."
+ },
+ {
+   "No": 49,
+   "Name": "الْبَاعِثُ",
+   "Transliteration": "Al-Ba’ith",
+   "EnglishMeaning": "The Infuser of New Life",
+   "TamilMeaning": "capH kPsr; nra;gtd;",
+   "Explanation": "The Resurrector, The Raiser (from death), The One who resurrects His slaves after death for reward and/or punishment."
+ },
+ {
+   "No": 50,
+   "Name": "الشَّهِيدُ",
+   "Transliteration": "Ash-Shaheed",
+   "EnglishMeaning": "The All Observing Witness",
+   "TamilMeaning": "rhd;W gfHgtd;",
+   "Explanation": "The Witness, The One who nothing is absent from Him."
+ },
+ {
+   "No": 51,
+   "Name": "الْحَقُّ",
+   "Transliteration": "Al-Haqq",
+   "EnglishMeaning": "The Embodiment of Truth",
+   "TamilMeaning": "cz;ikahsd;",
+   "Explanation": "The Truth, The True, The One who truly exists."
+ },
+ {
+   "No": 52,
+   "Name": "الْوَكِيلُ",
+   "Transliteration": "Al-Wakeel",
+   "EnglishMeaning": "The Universal Trustee",
+   "TamilMeaning": "fhhpa];jd;",
+   "Explanation": "The Trustee, The One who gives the satisfaction and is relied upon."
+ },
+ {
+   "No": 53,
+   "Name": "الْقَوِيُّ",
+   "Transliteration": "Al-Qawwiyy",
+   "EnglishMeaning": "The Strong One",
+   "TamilMeaning": "tYtha;e;jtd;",
+   "Explanation": "The Most Strong, The Strong, The One with the complete Power"
+ },
+ {
+   "No": 54,
+   "Name": "الْمَتِينُ",
+   "Transliteration": "Al-Mateen",
+   "EnglishMeaning": "The Firm One",
+   "TamilMeaning": "mirf;f Kbahjtd;",
+   "Explanation": "The One with extreme Power which is un-interrupted and He does not get tired."
+ },
+ {
+   "No": 55,
+   "Name": "الْوَلِيُّ",
+   "Transliteration": "Al-Waliyy",
+   "EnglishMeaning": "The Protecting Associate",
+   "TamilMeaning": "ghJfhf;F;Fk; ez;g;gd;",
+   "Explanation": "The Protecting Friend, The Supporter."
+ },
+ {
+   "No": 56,
+   "Name": "الْحَمِيدُ",
+   "Transliteration": "Al-Hameed",
+   "EnglishMeaning": "The Sole-Laudable One",
+   "TamilMeaning": "GfOf;Fhpatd;",
+   "Explanation": "The Praiseworthy, The praised One who deserves to be praised."
+ },
+ {
+   "No": 57,
+   "Name": "الْمُحْصِي",
+   "Transliteration": "Al-Muhsee",
+   "EnglishMeaning": "The All-Enumerating One",
+   "TamilMeaning": "midj;ijAk; mwpgtd;",
+   "Explanation": "The Counter, The Reckoner, The One who the count of things are known to him."
+ },
+ {
+   "No": 58,
+   "Name": "الْمُبْدِئُ",
+   "Transliteration": "Al-Mubdi",
+   "EnglishMeaning": "The Originator",
+   "TamilMeaning": "gilg;Gfisg; gilj;jtd;",
+   "Explanation": "The One who started the human being. That is, He created him."
+ },
+ {
+   "No": 59,
+   "Name": "الْمُعِيدُ",
+   "Transliteration": "Al-Mueed",
+   "EnglishMeaning": "The Restorer",
+   "TamilMeaning": "gilg;Gfs; mope;jgpd; kPz;Lk; kPsr;nra;gtd;",
+   "Explanation": "The Reproducer, The One who brings back the creatures after death"
+ },
+ {
+   "No": 60,
+   "Name": "الْمُحْيِي",
+   "Transliteration": "Al-Muhyi",
+   "EnglishMeaning": "The Maintainer of life",
+   "TamilMeaning": "gilj;jtd;",
+   "Explanation": "The Restorer, The Giver of Life, The One who took out a living human from semen that does not have a soul. He gives life by giving the souls back to the worn out bodies on the resurrection day and He makes the hearts alive by the light of knowledge."
+ },
+ {
+   "No": 61,
+   "Name": "اَلْمُمِيتُ",
+   "Transliteration": "Al-Mumeet",
+   "EnglishMeaning": "The Inflictor of Death",
+   "TamilMeaning": ",wg;igg; gilj;jtd;",
+   "Explanation": "The Creator of Death, The Destroyer, The One who renders the living dead."
+ },
+ {
+   "No": 62,
+   "Name": "الْحَيُّ",
+   "Transliteration": "Al-Hayy",
+   "EnglishMeaning": "The Eternally Living One",
+   "TamilMeaning": "capNuhLs;std;",
+   "Explanation": "The Alive, The One attributed with a life that is unlike our life and is not that of a combination of soul, flesh or blood."
+ },
+ {
+   "No": 63,
+   "Name": "الْقَيُّومُ",
+   "Transliteration": "Al-Qayyoom",
+   "EnglishMeaning": "The Self-Subsisting One",
+   "TamilMeaning": "epiyahdtd;",
+   "Explanation": "The One who remains and does not end."
+ },
+ {
+   "No": 64,
+   "Name": "الْوَاجِدُ",
+   "Transliteration": "Al-Waajid",
+   "EnglishMeaning": "The Pointing One",
+   "TamilMeaning": "ghpG+uz nry;t;td;",
+   "Explanation": "The Perceiver, The Finder, The Rich who is never poor. Al-Wajd is Richness."
+ },
+ {
+   "No": 65,
+   "Name": "الْمَاجِدُ",
+   "Transliteration": "Al-Maajid",
+   "EnglishMeaning": "The All-Noble One",
+   "TamilMeaning": "Nkyhdtd;",
+   "Explanation": "The Glorious, He who is Most Glorious."
+ },
+ {
+   "No": 66,
+   "Name": "الْواحِدُ",
+   "Transliteration": "Al-Waahid",
+   "EnglishMeaning": "The Only One",
+   "TamilMeaning": "jdpj;jtd;",
+   "Explanation": "The Unique, The One, The One without a partner"
+ },
+ {
+   "No": 67,
+   "Name": "اَلاَحَدُ",
+   "Transliteration": "Al-Ahad",
+   "EnglishMeaning": "The Sole One",
+   "TamilMeaning": "xUtd;",
+   "Explanation": "The One"
+ },
+ {
+   "No": 68,
+   "Name": "الصَّمَدُ",
+   "Transliteration": "As-Samad",
+   "EnglishMeaning": "The Supreme Provider",
+   "TamilMeaning": "mwpTf;F vl;lhjtd;",
+   "Explanation": "The Eternal, The Independent, The Master who is relied upon in matters and reverted to in ones needs."
+ },
+ {
+   "No": 69,
+   "Name": "الْقَادِرُ",
+   "Transliteration": "Al-Qaadir",
+   "EnglishMeaning": "The Omnipotent One",
+   "TamilMeaning": "Mw;wy; kpf;ftd;",
+   "Explanation": "The Able, The Capable, The One attributed with Power."
+ },
+ {
+   "No": 70,
+   "Name": "الْمُقْتَدِرُ",
+   "Transliteration": "Al-Muqtadir",
+   "EnglishMeaning": "The All Authoritative One",
+   "TamilMeaning": "vy;yhk; ty;ytd;",
+   "Explanation": "The Powerful, The Dominant, The One with the perfect Power that nothing is withheld from Him."
+ },
+ {
+   "No": 71,
+   "Name": "الْمُقَدِّمُ",
+   "Transliteration": "Al-Muqaddim",
+   "EnglishMeaning": "The Expediting One",
+   "TamilMeaning": "jhk; tpUk;GgtHfis jk;ghy; mizj;J VidNahiu xJf;fpj; js;Sgtd;",
+   "Explanation": "The Expediter, The Promoter, The One who puts things in their right places. He makes ahead what He wills and delays what He wills."
+ },
+ {
+   "No": 72,
+   "Name": "الْمُؤَخِّرُ",
+   "Transliteration": "Al-Mu’akhkhir",
+   "EnglishMeaning": "The Procrastinator",
+   "TamilMeaning": "capiug; gpw;gLj;Jgtd;",
+   "Explanation": "The Delayer, the Retarder, The One who puts things in their right places. He makes ahead what He wills and delays what He wills."
+ },
+ {
+   "No": 73,
+   "Name": "الأوَّلُ",
+   "Transliteration": "Al-Awwal",
+   "EnglishMeaning": "The Very First",
+   "TamilMeaning": "Kjy;td;",
+   "Explanation": "The First, The One whose Existence is without a beginning."
+ },
+ {
+   "No": 74,
+   "Name": "الآخِرُ",
+   "Transliteration": "Al-Akhir",
+   "EnglishMeaning": "The Infinite Last One",
+   "TamilMeaning": ",Wjpahdtd;",
+   "Explanation": "The Last, The One whose Existence is without an end."
+ },
+ {
+   "No": 75,
+   "Name": "الظَّاهِرُ",
+   "Transliteration": "Az-Zaahir",
+   "EnglishMeaning": "The Perceptible",
+   "TamilMeaning": "gfpuq;fkhdtd;",
+   "Explanation": "The Manifest, The One that nothing is above Him and nothing is underneath Him, hence He exists without a place. He, The Exalted, His Existence is obvious by proofs and He is clear from the delusions of attributes of bodies."
+ },
+ {
+   "No": 76,
+   "Name": "الْبَاطِنُ",
+   "Transliteration": "Al-Baatin",
+   "EnglishMeaning": "The Imperceptible",
+   "TamilMeaning": "kiwthdtw;iw mwpgtd;",
+   "Explanation": "The Hidden, The One that nothing is above Him and nothing is underneath Him, hence He exists without a place. He, The Exalted, His Existence is obvious by proofs and He is clear from the delusions of attributes of bodies."
+ },
+ {
+   "No": 77,
+   "Name": "الْوَالِي",
+   "Transliteration": "Al-Waali",
+   "EnglishMeaning": "The Holder of Supreme Authority",
+   "TamilMeaning": "Ml;rp nra;gtd;",
+   "Explanation": "The Governor, The One who owns things and manages them."
+ },
+ {
+   "No": 78,
+   "Name": "الْمُتَعَالِي",
+   "Transliteration": "Al-Muta’ali",
+   "EnglishMeaning": "The Extremely Exalted One",
+   "TamilMeaning": "kpfTk; caHe;jtd;",
+   "Explanation": "The Most Exalted, The High Exalted, The One who is clear from the attributes of the creation."
+ },
+ {
+   "No": 79,
+   "Name": "الْبَرُّ",
+   "Transliteration": "Al-Barr",
+   "EnglishMeaning": "The Fountain-Head of Truth",
+   "TamilMeaning": "ed;ikfspd; Cw;whf cs;std;",
+   "Explanation": "The Source of All Goodness, The Righteous, The One who is kind to His creatures, who covered them with His sustenance and specified whoever He willed among them by His support, protection, and special mercy."
+ },
+ {
+   "No": 80,
+   "Name": "التَّوَابُ",
+   "Transliteration": "At-Tawwaab",
+   "EnglishMeaning": "The Ever-Acceptor of Repentance",
+   "TamilMeaning": "ghtkd;dpg;ig Vw;gtd;",
+   "Explanation": "The Relenting, The One who grants repentance to whoever He willed among His creatures and accepts his repentance."
+ },
+ {
+   "No": 81,
+   "Name": "الْمُنْتَقِمُ",
+   "Transliteration": "Al-Muntaqim",
+   "EnglishMeaning": "The Retaliator",
+   "TamilMeaning": "gopjPHj;Jf; nfhs;gtd;",
+   "Explanation": "The Avenger, The One who victoriously prevails over His enemies and punishes them for their sins. It may mean the One who destroys them."
+ },
+ {
+   "No": 82,
+   "Name": "العَفُوُّ",
+   "Transliteration": "Al-Afuww",
+   "EnglishMeaning": "The Supreme Pardoner",
+   "TamilMeaning": "ghtq;fis kd;dpg;gtd;",
+   "Explanation": "The Forgiver, The One with wide forgiveness."
+ },
+ {
+   "No": 83,
+   "Name": "الرَّؤُوفُ",
+   "Transliteration": "Ar-Ra’oof",
+   "EnglishMeaning": "The Benign One",
+   "TamilMeaning": "fpUigahsd;",
+   "Explanation": "The Compassionate, The One with extreme Mercy. The Mercy of Allah is His will to endow upon whoever He willed among His creatures."
+ },
+ {
+   "No": 84,
+   "Name": "مَالِكُ الْمُلْكِ",
+   "Transliteration": "Maalik-ul-Mulk",
+   "EnglishMeaning": "The Eternal Possessor of Sovereignty",
+   "TamilMeaning": "gilg;gpdq;fspd; ghpG+uzg; Nguurd;",
+   "Explanation": "The One who controls the Dominion and gives dominion to whoever He willed."
+ },
+ {
+   "No": 85,
+   "Name": "ذُوالْجَلاَلِ وَالإكْرَامِ",
+   "Transliteration": "Zul-Jalaali-wal-Ikram",
+   "EnglishMeaning": "The Possessor of Majesty and Honour",
+   "TamilMeaning": "khz;Gk; jhuhsj;jd;ikAk; cs;s mjpgjp",
+   "Explanation": "The Lord of Majesty and Bounty, The One who deserves to be Exalted and not denied."
+ },
+ {
+   "No": 86,
+   "Name": "الْمُقْسِطُ",
+   "Transliteration": "Al-Muqsit",
+   "EnglishMeaning": "The Just One",
+   "TamilMeaning": "ePjpahsd;",
+   "Explanation": "The Equitable, The One who is Just in His judgment."
+ },
+ {
+   "No": 87,
+   "Name": "الْجَامِعُ",
+   "Transliteration": "Al-Jaami’",
+   "EnglishMeaning": "The Assembler of Scattered Creations",
+   "TamilMeaning": "xd;W NrHg;gtd;",
+   "Explanation": "The Gatherer, The One who gathers the creatures on a day that there is no doubt about, that is the Day of Judgment."
+ },
+ {
+   "No": 88,
+   "Name": "الْغَنِيُّ",
+   "Transliteration": "Al-Ghaniyy",
+   "EnglishMeaning": "The Self-Sufficient One",
+   "TamilMeaning": "nry;td;",
+   "Explanation": "The One who does not need the creation."
+ },
+ {
+   "No": 89,
+   "Name": "الْمُغْنِي",
+   "Transliteration": "Al-Mughni",
+   "EnglishMeaning": "The Bestower of Sufficiency",
+   "TamilMeaning": "tskhf;Fgtd;",
+   "Explanation": "The Enricher, The One who satisfies the necessities of the creatures."
+ },
+ {
+   "No": 90,
+   "Name": "اَلْمَانِعُ",
+   "Transliteration": "Al-Maani’",
+   "EnglishMeaning": "The Preventer",
+   "TamilMeaning": "ghJfhtyd;",
+   "Explanation": "The Withholder."
+ },
+ {
+   "No": 91,
+   "Name": "الضَّارَّ",
+   "Transliteration": "Ad-Daarr",
+   "EnglishMeaning": "The Distressor",
+   "TamilMeaning": "Jd;GWj;Jfpd;wtd;",
+   "Explanation": "The One who makes harm reach to whoever He willed and benefit to whoever He willed."
+ },
+ {
+   "No": 92,
+   "Name": "النَّافِعُ",
+   "Transliteration": "An-Naafi’",
+   "EnglishMeaning": "The Bestower of Benefits",
+   "TamilMeaning": "mUs; nrhhpgtd;",
+   "Explanation": "The Propitious, The One who makes harm reach to whoever He willed and benefit to whoever He willed."
+ },
+ {
+   "No": 93,
+   "Name": "النُّورُ",
+   "Transliteration": "An-Noor",
+   "EnglishMeaning": "The Prime Light",
+   "TamilMeaning": "xspkakhdtd;",
+   "Explanation": "The Light, The One who guides."
+ },
+ {
+   "No": 94,
+   "Name": "الْهَادِي",
+   "Transliteration": "Al-Haadi",
+   "EnglishMeaning": "The Provider of Guidance",
+   "TamilMeaning": "topfhl;Lgtd;",
+   "Explanation": "The Guide, The One whom with His Guidance His believers were guided, and with His Guidance the living beings have been guided to what is beneficial for them and protected from what is harmful to them."
+ },
+ {
+   "No": 95,
+   "Name": "الْبَدِيعُ",
+   "Transliteration": "Al-Badi’",
+   "EnglishMeaning": "The Unique One",
+   "TamilMeaning": "midj;ijAk; Kd;khjphpapd;wp cz;Lgz;Zfpd;wtd;",
+   "Explanation": "The Incomparable, The One who created the creation and formed it without any preceding example."
+ },
+ {
+   "No": 96,
+   "Name": "اَلْبَاقِي",
+   "Transliteration": "Al-Baaqi",
+   "EnglishMeaning": "The Ever Surviving One",
+   "TamilMeaning": "epue;jukhdtd;",
+   "Explanation": "The Everlasting, The One that the state of non-existence is impossible for Him."
+ },
+ {
+   "No": 97,
+   "Name": "الْوَارِثُ",
+   "Transliteration": "Al-Waaris",
+   "EnglishMeaning": "The Eternal Inheritor",
+   "TamilMeaning": "thhpR chpikahsd;",
+   "Explanation": "The Heir, The One whose Existence remains."
+ },
+ {
+   "No": 98,
+   "Name": "الرَّشِيدُ",
+   "Transliteration": "Ar-Rasheed",
+   "EnglishMeaning": "The Guide to Path of Rectitude",
+   "TamilMeaning": "NeHtopapy; elj;jpr; nry;g;gtd;",
+   "Explanation": "The Guide to the Right Path, The One who guides."
+ },
+ {
+   "No": 99,
+   "Name": "الصَّبُورُ",
+   "Transliteration": "As-Saboor",
+   "EnglishMeaning": "The Extensively Enduring One",
+   "TamilMeaning": "nghWikahsd;",
+   "Explanation": "The Patient, The One who does not quickly punish the sinners."
+ }
+]
